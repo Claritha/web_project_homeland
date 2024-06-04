@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-\_ Este proyecto nos permite conocer los lugares de donde proceden algunos de nuestros colegas en línea, esto por medio de la Galería de Arte de Tripleten donde se presentan historias únicas complementadas de  una obra de arte visual dedicada a su ciudad natal.\_
+\_ Este proyecto nos permite conocer los lugares de donde proceden algunos de nuestros colegas en línea, esto por medio de la Galería de Arte de Tripleten donde se presentan historias únicas complementadas con una obra de arte visual dedicada a su ciudad natal.\_
 
 ---
 
