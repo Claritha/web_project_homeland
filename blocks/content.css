@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1024px) {
+  .content {
+    width: 984px;
+  }
+}

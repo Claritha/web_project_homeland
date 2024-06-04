@@ -1,0 +1,15 @@
+p,
+h1,
+h2 {
+  margin: 0 auto;
+}
+.page {
+  margin: 0;
+  background: #2a2c2f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  font-family: "Inter-Regular";
+  font-weight: 400;
+}
