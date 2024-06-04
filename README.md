@@ -16,4 +16,4 @@
 
 ## Enlace a GitHub Pages
 
-\_ Puede ver este proyecto dinámico por medio de este enlace. \_
+\_ Puede ver este proyecto dinámico por medio de este enlace https://claritha.github.io/web_project_homeland/ \_
