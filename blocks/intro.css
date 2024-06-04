@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 
-.intro_title {
+.intro__title {
   font-family: "Inter";
   font-weight: 900;
   text-align: start;
@@ -44,7 +44,7 @@
   .intro {
     margin: 64px 16px;
   }
-  .intro_title {
+  .intro__title {
     font-size: 32px;
     line-height: 35px;
   }
@@ -54,7 +54,7 @@
   }
   .intro__text,
   .intro,
-  .intro_title,
+  .intro__title,
   .intro__text-cita {
     width: 100%;
   }
@@ -63,7 +63,7 @@
   .intro {
     margin: 90px 24px 88px;
   }
-  .intro_title {
+  .intro__title {
     font-size: 45px;
     line-height: 49px;
   }
@@ -74,7 +74,7 @@
 
   .intro__text,
   .intro,
-  .intro_title,
+  .intro__title,
   .intro__text-cita {
     width: 100%;
   }
