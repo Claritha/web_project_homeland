@@ -114,6 +114,9 @@
   .place__image {
     height: 320px;
     box-shadow: none;
+    margin-left: -16px;
+    margin-right: -16px;
+    position: absolute;
   }
   .place__text {
     width: 288px;
