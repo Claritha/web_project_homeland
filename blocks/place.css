@@ -129,6 +129,7 @@
   }
   .place__description:nth-last-of-type(1) {
     margin-bottom: 0;
+    margin-top: 50px;
   }
   .place__button {
     width: 288px;
