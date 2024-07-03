@@ -9,8 +9,11 @@
 ## Tecnologías, técnicas y buenas prácticas 🛠️
 
 - Aplicación de técnicas avanzadas de HTML y CSS.
-- Diseño resposivo por medio de uso de Media Queries.
+- Diseño responsivo por medio de uso de Media Queries.
 - Implementación de metodología BEM.
+- Implementación de propiedad grid.
+- Aplicación de sombreados y degradados.
+- Manejo de ramas y fusión de las mismas.
 
 ---
 
