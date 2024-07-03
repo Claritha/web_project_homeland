@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin: 92px 0;
+  margin: 92px 0 0;
   width: 830px;
   box-sizing: border-box;
 }
@@ -42,7 +42,7 @@
 
 @media (min-width: 320px) and (max-width: 544px) {
   .intro {
-    margin: 64px 16px;
+    margin: 64px 16px 0;
   }
   .intro__title {
     font-size: 32px;
@@ -61,7 +61,7 @@
 }
 @media (min-width: 544px) and (max-width: 1024px) {
   .intro {
-    margin: 90px 24px 88px;
+    margin: 90px 24px 0;
   }
   .intro__title {
     font-size: 45px;
