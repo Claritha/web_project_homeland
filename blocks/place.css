@@ -66,10 +66,11 @@
 }
 
 .place__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 289px;
   height: 48px;
-  text-align: center;
-  align-content: center;
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   grid-area: button;
   color: #ffffff;
